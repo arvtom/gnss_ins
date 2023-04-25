@@ -1,0 +1,2 @@
+moving_average_filter.c:12:6:moving_average_filter_update_float	16	static
+moving_average_filter.c:28:6:moving_average_filter_reset	16	static

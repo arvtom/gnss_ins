@@ -1,0 +1,5 @@
+imu.c:21:6:imu_init_acc	24	static
+imu.c:50:6:imu_calibrate_acc	24	static
+imu.c:57:6:imu_calibrate_gyro	24	static
+imu.c:64:6:imu_read_acc	40	static
+imu.c:77:6:imu_read_gyro	40	static

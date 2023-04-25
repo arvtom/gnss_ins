@@ -1,0 +1,3 @@
+gnss.c:12:6:gnss_parse_GNRMC	48	static
+gnss.c:84:6:gnss_coordinate_deg_to_rad	16	static
+gnss.c:92:6:gnss_calculate_bearing	56	static

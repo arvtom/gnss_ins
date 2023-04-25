@@ -1,0 +1,5 @@
+ins.c:10:6:joint_result_calculate_bearing	32	static
+ins.c:47:7:ins_calculate_2d_acceleration	32	static
+ins.c:54:7:ins_calculate_3d_acceleration	40	static
+ins.c:62:7:ins_calculate_velocity	32	static
+ins.c:79:6:joint_result_calculate_lat_lon	72	static
