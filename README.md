@@ -1,5 +1,5 @@
 # gnss_ins
-MA semester project: data fusion of GNSS and INS data using loosely coupled algorithm (GNSS and INS can work independently). Algorithm was unit tested using data collected to microsd.  
+My MA semester project, which was supposed to be my thesis: data fusion of GNSS and INS data using loosely coupled algorithm (GNSS and INS can work independently). Algorithm was unit tested using data collected to microsd.  
   
 Summary can be found in .pdf report.  
   
